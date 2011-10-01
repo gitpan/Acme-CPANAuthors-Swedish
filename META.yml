@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Acme-CPANAuthors-Swedish
-version:            0.02
+version:            0.03
 abstract:           We are swedish CPAN authors
 author:
     - Magnus Woldrich <m@japh.se>
